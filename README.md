@@ -18,6 +18,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AbdurraoufE&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdurraouf&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Abdurraouf&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
