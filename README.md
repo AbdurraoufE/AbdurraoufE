@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 💻 Aspiring Software Engineer <br>🎓 University student <br>🚀 Actively working on projects <br>🌱 Enthusiastic about continuous learning <br>🤝 Open to collaboration with fellow developers
 
 
