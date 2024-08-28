@@ -1,9 +1,13 @@
 <p align="center">
-  <strong>💫 About Me</strong><br>
+  <strong>About Me</strong><br>
   💻 Aspiring Software Engineer <br>
+  <br>
   🎓 University student <br>
+  <br>
   🚀 Actively working on projects <br>
+  <br>
   🌱 Enthusiastic about continuous learning <br>
+  <br>
   🤝 Open to collaboration with fellow developers
 </p>
 
