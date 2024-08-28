@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="font-size: 1.3em; color: #00BFFF;">
-  🚀 Actively working on projects
+  🚀 Actively contributing towards projects
 </p>
 
 <p align="center" style="font-size: 1.2em; color: #87CEFA;">
