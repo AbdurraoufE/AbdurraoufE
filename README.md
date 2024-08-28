@@ -12,7 +12,7 @@
 
 <h2 align="center">🌐 Socials 🌐</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurraouf) <br>
-[Portfolio](https://www.abdurraouf.dev/)
+[Portfolio](https://www.abdurraouf.dev/) <br>
 
 
 
