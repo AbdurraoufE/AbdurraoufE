@@ -1,17 +1,12 @@
 <p align="center">
-  <strong>About Me</strong><br>
-  <br>
-  💻 Aspiring Software Engineer<br>
-  <br>
-  🎓 University student<br>
-  <br>
-  🚀 Actively working on projects<br>
-  <br>
-  🌱 Enthusiastic about continuous learning<br>
-  <br>
-  🤝 Open to collaboration with fellow developers
-  <br>
+  <strong style="font-size: 12px;">💫 About Me</strong><br>
+  <span style="font-size: 14px;">💻 Aspiring Software Engineer</span><br>
+  <span style="font-size: 16px;">🎓 University student</span><br>
+  <span style="font-size: 18px;">🚀 Actively working on projects</span><br>
+  <span style="font-size: 20px;">🌱 Enthusiastic about continuous learning</span><br>
+  <span style="font-size: 22px;">🤝 Open to collaboration with fellow developers</span>
 </p>
+
 
 
 ## 🌐 Socials
