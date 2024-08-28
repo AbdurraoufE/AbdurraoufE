@@ -11,8 +11,8 @@
 <p align="center">🤝 Open to collaboration with fellow developers</p>
 
 <h2 align="center">🌐 Socials 🌐</h2>
-<p align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurraouf) <br> </p>
-<p align="center">[Portfolio](https://www.abdurraouf.dev/) </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurraouf) <br>
+[Portfolio](https://www.abdurraouf.dev/)
 
 
 
