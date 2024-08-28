@@ -1,14 +1,14 @@
-<h2 align="center" style="font-size: 2em; font-weight: bold; color: #1E90FF;">🌟 About Me 🌟</h2>
+<h2 align="center">🌟 About Me 🌟</h2>
 
-<p align="center" style="font-size: 1.5em; color: #6495ED;">🎓 University student</p>
+<p align="center">🎓 University student</p>
 
-<p align="center" style="font-size: 1.5em; color: #4682B4;">💻 Aspiring Software Engineer</p>
+<p align="center">💻 Aspiring Software Engineer</p>
 
-<p align="center" style="font-size: 1.4em; color: #00BFFF;">🚀 Actively contributing to projects</p>
+<p align="center">🚀 Actively contributing to projects</p>
 
-<p align="center" style="font-size: 1.3em; color: #87CEFA;">🌱 Enthusiastic about continuous learning</p>
+<p align="center">🌱 Enthusiastic about continuous learning</p>
 
-<p align="center" style="font-size: 1.2em; color: #ADD8E6;">🤝 Open to collaboration with fellow developers</p>
+<p align="center">🤝 Open to collaboration with fellow developers</p>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurraouf) <br>
