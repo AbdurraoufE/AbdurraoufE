@@ -1,4 +1,4 @@
-<h2 align="center" style="font-size: 2em; font-weight: bold; color: #1E90FF;"><strong>About Me</strong></h2>
+<h2 align="center" style="font-size: 2em; font-weight: bold; color: #1E90FF;"><strong>🌟 About Me</strong></h2>
 
 <p align="center" style="font-size: 1.5em; color: #4682B4;">
   💻 Aspiring Software Engineer
