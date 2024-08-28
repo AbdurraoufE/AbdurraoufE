@@ -1,8 +1,14 @@
-# 💫 About Me
-💻 Aspiring Software Engineer <br>🎓 University student <br>🚀 Actively working on projects <br>🌱 Enthusiastic about continuous learning <br>🤝 Open to collaboration with fellow developers
+<p align="center">
+  <strong>💫 About Me</strong><br>
+  💻 Aspiring Software Engineer <br>
+  🎓 University student <br>
+  🚀 Actively working on projects <br>
+  🌱 Enthusiastic about continuous learning <br>
+  🤝 Open to collaboration with fellow developers
+</p>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurraouf) <br>
 [Portfolio](https://www.abdurraouf.dev/)
 
