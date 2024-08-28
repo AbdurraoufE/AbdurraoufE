@@ -1,11 +1,25 @@
-<p align="center" style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-  <strong style="font-size: 32px; color: #1E90FF;">💫 About Me</strong><br>
-  <span style="font-size: 24px; color: #4682B4;">💻 Aspiring Software Engineer</span><br>
-  <span style="font-size: 20px; color: #6495ED;">🎓 University student</span><br>
-  <span style="font-size: 18px; color: #00BFFF;">🚀 Actively working on projects</span><br>
-  <span style="font-size: 16px; color: #87CEFA;">🌱 Enthusiastic about continuous learning</span><br>
-  <span style="font-size: 14px; color: #ADD8E6;">🤝 Open to collaboration with fellow developers</span>
+<h2 align="center" style="font-size: 2em; font-weight: bold; color: #1E90FF;">💫 About Me</h2>
+
+<p align="center" style="font-size: 1.5em; color: #4682B4;">
+  💻 Aspiring Software Engineer
 </p>
+
+<p align="center" style="font-size: 1.4em; color: #6495ED;">
+  🎓 University student
+</p>
+
+<p align="center" style="font-size: 1.3em; color: #00BFFF;">
+  🚀 Actively working on projects
+</p>
+
+<p align="center" style="font-size: 1.2em; color: #87CEFA;">
+  🌱 Enthusiastic about continuous learning
+</p>
+
+<p align="center" style="font-size: 1.1em; color: #ADD8E6;">
+  🤝 Open to collaboration with fellow developers
+</p>
+
 
 
 
