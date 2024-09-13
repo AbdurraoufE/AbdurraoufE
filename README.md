@@ -1,6 +1,6 @@
 <h2 align="center">🌟 About Me 🌟</h2>
 
-<p align="center">🎓 University student</p>
+<p align="center">🎓 University student </p>
 
 <p align="center">💻 Aspiring Software Engineer</p>
 
