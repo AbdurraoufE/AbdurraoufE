@@ -2,7 +2,7 @@
 
 <p align="center">🎓 University student </p>
 
-<p align="center">💻 Aspiring Software Engineer</p>
+<p align="center">💻 Aspiring Software Engineer </p>
 
 <p align="center">🚀 Actively contributing to projects</p>
 
