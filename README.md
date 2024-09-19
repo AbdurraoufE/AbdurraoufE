@@ -4,11 +4,11 @@
 
 <p align="center">💻 Aspiring Software Engineer </p>
 
-<p align="center">🚀 Actively contributing to projects</p>
+<p align="center">🚀 Actively contributing to projects </p>
 
-<p align="center">🌱 Enthusiastic about continuous learning</p>
+<p align="center">🌱 Enthusiastic about continuous learning </p>
 
-<p align="center">🤝 Open to collaboration with fellow developers</p>
+<p align="center">🤝 Open to collaboration with fellow developers </p>
 
 
 
