@@ -1,14 +1,14 @@
-<h2 align="center">🌟 About Me 🌟</h2>
+<h2>🌟 About Me 🌟</h2>
 
-<p align="center">🎓 University student </p>
+<p>🎓 University student </p>
 
-<p align="center">💻 Aspiring Software Engineer </p>
+<p>💻 Aspiring Software Engineer </p>
 
-<p align="center">🚀 Actively contributing to projects </p>
+<p>🚀 Actively contributing to projects </p>
 
-<p align="center">🌱 Enthusiastic about continuous learning </p>
+<p>🌱 Enthusiastic about continuous learning </p>
 
-<p align="center">🤝 Open to collaboration with fellow developers </p>
+<p>🤝 Open to collaboration with fellow developers </p>
 
 
 
