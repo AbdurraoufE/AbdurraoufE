@@ -8,7 +8,7 @@
 
 <p>🌱 Enthusiastic about continuous learning </p>
 
-<p>🤝 Open to collaboration with fellow developers </p>
+<p>🤝 Open to collaboration with fellow developers </p> 
 
 
 
