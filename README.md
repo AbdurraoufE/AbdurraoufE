@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.tenor.com/JaVBGzvUdxAAAAAC/pixel-city-chill.gif" alt="Calm and Relaxing Place" width="100%">
+  <img src="https://media.tenor.com/Xu5JfiwBbYIAAAAC/cozy.gif" alt="Calm and Relaxing Place" width="100%">
 </p>
 
 <br>
