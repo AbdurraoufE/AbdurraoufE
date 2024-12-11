@@ -3,14 +3,6 @@
   <img src="https://media.giphy.com/media/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" alt="Welcome Emoji" width="32">
 </h2>
 
-<br>
-
-<p align="center">
-  <img src="https://media.tenor.com/Xu5JfiwBbYIAAAAC/cozy.gif" alt="Calm and Relaxing Place" width="100%">
-</p>
-
-<br>
-
 <h2>🌟 About Me 🌟</h2>
 
 <p>🎓 University student </p>
