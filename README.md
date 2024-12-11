@@ -1,12 +1,12 @@
 <h2>
   Welcome! 
-  <img src="https://github.com/user-attachments/assets/cb240419-ca6e-428f-8c75-f4f0f9a68856" alt="200w" width="32">
+  <img src="https://media.giphy.com/media/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" alt="Welcome Emoji" width="32">
 </h2>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b5801d3-ad9f-4019-b661-b7f84f9bf1a3" alt="gitpics" width="100%">
+  <img src="https://media.tenor.com/Vxy1l_J7ghEAAAAd/calm-and-relaxing-place-wallpaper.gif" alt="Calm and Relaxing Place" width="100%">
 </p>
 
 <br>
