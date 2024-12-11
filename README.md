@@ -1,7 +1,7 @@
-<p>
+<h2>
   Welcome 
   <img src="https://github.com/user-attachments/assets/cb240419-ca6e-428f-8c75-f4f0f9a68856" alt="200w" width="32">
-</p>
+</h2>
 
 <br>
 
