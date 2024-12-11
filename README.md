@@ -1,3 +1,5 @@
+![gitpics](https://github.com/user-attachments/assets/3b5801d3-ad9f-4019-b661-b7f84f9bf1a3)
+
 <h2>🌟 About Me 🌟</h2>
 
 <p>🎓 University student </p>
