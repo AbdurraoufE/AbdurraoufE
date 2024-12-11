@@ -1,4 +1,11 @@
-![gitpics](https://github.com/user-attachments/assets/3b5801d3-ad9f-4019-b661-b7f84f9bf1a3)
+<h2>Welcome!</h2>
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b5801d3-ad9f-4019-b661-b7f84f9bf1a3" alt="gitpics" width="600">
+</p>
+
+<br>
 
 <h2>🌟 About Me 🌟</h2>
 
