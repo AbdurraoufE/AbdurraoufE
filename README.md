@@ -1,6 +1,5 @@
 <h2>
   Welcome! 
-  <img src="https://media.giphy.com/media/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" alt="Welcome Emoji" width="32">
 </h2>
 
 <h2>🌟 About Me 🌟</h2>
