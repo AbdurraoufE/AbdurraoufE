@@ -4,7 +4,7 @@
 
 <h2>🌟 About Me 🌟</h2>
 
-<p>🎓 University student </p>
+<p>🎓 University student </p> 
 
 <p>💻 Aspiring Software Engineer </p>
 
